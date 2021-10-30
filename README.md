@@ -2,16 +2,17 @@
 Primeiro repositório 
 
 
-Strogonoff de frango
+# Strogonoff de frango
 
-Ingredientes:
+## Ingredientes:
+
 1kg de peito de frango
 1 caixa de creme de leite.
 1 molho de tomate.
 1 cebola média e 3 dentes de alho.
 sal e pimenta à gosto.
 
-como fazer:
+## como fazer:
 
 - corte o frango em cubos pequenos
 - doure a cebola e o alho
